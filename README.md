@@ -8,3 +8,5 @@
  Professional Goals
 - Career Goal:  Software Engineer
 - Favourite Technology: Artificial Intelligence
+- 
+-  successfully completed my first GitHub repository.
